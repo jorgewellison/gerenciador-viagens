@@ -9,3 +9,5 @@ mvn spring-boot:run
 mb --configfile ../tempoAPI.ejs
 
 mvn surefire:test
+
+allure serve ..\GerenciadorViagens\gerenciador-viagens\target\surefire-reports/
