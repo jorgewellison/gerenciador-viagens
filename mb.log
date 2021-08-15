@@ -1,0 +1,5 @@
+{"message":"[mb:2525] mountebank v2.4.0 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2021-08-15T16:59:10.703Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2021-08-15T16:59:10.736Z"}
+{"message":"[http:4545] Open for business...","level":"info","timestamp":"2021-08-15T16:59:10.762Z"}
+{"message":"[http:4545] ::1:60091 => GET /tempo-api/temperatura?regiao=Sudoeste","level":"info","timestamp":"2021-08-15T16:59:19.436Z"}
+{"message":"[http:4545] ::1:60093 => GET /tempo-api/temperatura?regiao=Sudoeste","level":"info","timestamp":"2021-08-15T16:59:20.594Z"}
